@@ -1,0 +1,13 @@
+name: ICAN-MND-demo
+title: ICAN-MND-demo
+username:
+account: camarades
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6235268
+bundleId: 5871302
+url: https://camarades.shinyapps.io/ICAN-MND-demo/
+when: 1651704399.97972
+lastSyncTime: 1651704399.97974
+asMultiple: FALSE
+asStatic: FALSE
